@@ -3,7 +3,7 @@ The dissertation project in my last year in UNNC. Applied Deep Reinforcement Lea
 
 ## Problem Definition
 
-![image](https://github.com/)
+![Math definition](https://github.com/ZYtheNOOOB/DRL-1DBPP/blob/main/img/def.png)
 
 ## Algorithm Applied
 
@@ -14,4 +14,6 @@ Proximal Policy Optimization
 ## Neural Network Architecture
 
 Modified version of Pointer Network
+
+![Neural network](https://github.com/ZYtheNOOOB/DRL-1DBPP/blob/main/img/network.png)
 
