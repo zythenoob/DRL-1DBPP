@@ -3,6 +3,8 @@ The dissertation project in my last year in UNNC. Applied Deep Reinforcement Lea
 
 ## Problem Definition
 
+![image](https://github.com/)
+
 ## Algorithm Applied
 
 Monte-Carlo Tree Search
